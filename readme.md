@@ -1,0 +1,1 @@
+怕被查，bot的名字叫 `RARBG Legacy Bot` 应该能查到。
