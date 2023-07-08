@@ -6,3 +6,4 @@ package-lock.json
 ignore/*
 wrangler.toml
 .wrangler
+src/router/internal/*
